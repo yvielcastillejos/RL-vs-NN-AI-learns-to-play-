@@ -77,7 +77,7 @@ def train(traindata, trainlabel, validationdata, validationlabel):
           # Validation Accuracy Calculation
           v_predict = mdl(validationdata.float())
           validAcc = accuracy(v_predict, validationlabel)
-          validAccRec
+          validAccRec.append(validAcc)
           if k%100 == 0:
                 print(f"Then training accuracy is {trainAcc:2f}, the validation accuracy is {validAcc: .2f} at batches # {k}")
    return mdl, trainAccRec, validAccRec
