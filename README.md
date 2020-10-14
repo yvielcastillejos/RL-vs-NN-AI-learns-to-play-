@@ -6,7 +6,7 @@ In this repository, we will learn what the difference is when it comes to traini
 TBA
 
 # Results:
-TBA
+more TBA                                                                                                                                            
 For the Neural Network approach, we train a model with batched datasets gathered from the environment. We get the following:
 <img src ="https://github.com/yvielcastillejos/RL-vs-NN-AI-learns-to-play-/blob/main/TrainvsValid.png" height = "250" width="250">
 
