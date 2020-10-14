@@ -8,7 +8,7 @@ TBA
 # Results:
 TBA
 For the Neural Network approach, we train a model with batched datasets gathered from the environment. We get the following:
-![Alt text](https://github.com/yvielcastillejos/RL-vs-NN-AI-learns-to-play-/blob/main/TrainvsValid.png?raw=true "Train vs Validation Accuracy")
+<img src ="https://github.com/yvielcastillejos/RL-vs-NN-AI-learns-to-play-/blob/main/TrainvsValid.png" height = "250" width="250">
 
 # Acknowledgement:
 TBA
