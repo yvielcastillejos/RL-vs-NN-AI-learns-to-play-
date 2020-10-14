@@ -7,7 +7,7 @@ def plot():
 	trainAccRec = Tacc
 	figure = plt.figure()
 	x1 = np.arange(0,len(trainAccRec),1)
-	trainAccRec = savgol_filter(trainAveRec, 51,3)
+	trainAccRec = savgol_filter(trainAccRec, 51,3)
 	plt.plot(x1, trainAccRec)
 #	holdon
 	x5 = np.arange(0,len(validAccRec),1)
