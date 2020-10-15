@@ -7,6 +7,9 @@ Using a Neural Network approach and a Reinforcement Learning approach, we will t
 
 <img src = "https://www.novatec-gmbh.de/wp-content/uploads/1_mPGk9WTNNvp3i4-9JFgD3w.png" width = "500">
 
+#### The Game
+Mountain Car - TBA
+
 ### Neural Network Approach 
 In the Neural Network Approach, we implement the following:
  - Data Acquisition through accessing the environment and thinking through the important information we can achieve/use from the environment (e.g. State observation values relative to the agent, reward per timestep, and hyperparameters such as the number of games)
