@@ -19,6 +19,7 @@ In the RL Approach, we implement the Q-Learning algorithm by:
  - Update the Q-table every timestep and figure out a Q-table that ultimately has values that make the agent "win" the game.
  - predict am action and use it in the environment
 
+< img src = "https://github.com/yvielcastillejos/RL-vs-NN-AI-learns-to-play-/blob/main/index.png" >
 ## Results:
 more TBA    
 ### Neural Network Results
